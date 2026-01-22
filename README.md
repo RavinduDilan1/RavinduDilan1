@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @RavinduDilan1
+- 👋 Hi, I’m Ravindu Dilan
 - 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning html,css,javascript,bootstrap,php,java,arduino
+- 🌱 I’m currently learning html,css,javascript,bootstrap,php,java,arduino,react,android
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me ravindudilan126@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ................................
+- 📫 You can reach me via my email: ravindudilan126@gmail.com
 
 <!---
 RavinduDilan1/RavinduDilan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
